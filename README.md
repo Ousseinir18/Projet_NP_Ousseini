@@ -33,7 +33,7 @@ Projet de classification de sentiment : donner un texte (tweet) et prédire s'il
      python demo_tweets.py
      ```
    - Ouvrir `http://127.0.0.1:7860` dans le navigateur.
-
+## Difficulté rencontrée: Je n'ai ppas pu uploader le model dans le dossier checkpoint_bert car il est trop volumineux
 ## Résultat
 
 Le modèle prend un texte en entrée et renvoie une des 3 étiquettes : `negative`, `neutral`, `positive`, avec quelques exemples de tweets prêts à tester dans l'interface.
